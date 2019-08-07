@@ -24,4 +24,4 @@ Once cloned, you can run it:
 path/to/love-platform $ love .
 ```
 
-![](https://github.com/thirdeyestudio/love-platform/raw/master/src/imgs/screenshot.png)
+![](https://raw.githubusercontent.com/thirdeyestudio/love-platform/master/imgs/screenshot.png)
