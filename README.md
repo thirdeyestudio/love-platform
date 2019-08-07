@@ -1,4 +1,4 @@
-# love-platform 
+# love-platform
 A platformer game example with [Löve 2D](https://love2d.org). It was built doing [Kyle Schaub's](http://kyleschaub.com/) Udemy course for love2d. It's an excellent course to learn the basics and can be found [here](https://www.udemy.com/lua-love/)
 
 # Installing & running the game
@@ -23,3 +23,5 @@ Once cloned, you can run it:
 ```bash
 path/to/love-platform $ love .
 ```
+
+![](https://github.com/thirdeyestudio/love-platform/raw/master/src/imgs/screenshot.png)
