@@ -1,2 +1,2 @@
 # love-platform
-A platformer game example with [https://love2d.org](Löve 2D).
+A platformer game example with [Löve 2D](https://love2d.org).
